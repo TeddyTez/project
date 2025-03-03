@@ -1,1 +1,1 @@
-console.log('I just got added');
+console.log('The new script is running!');
